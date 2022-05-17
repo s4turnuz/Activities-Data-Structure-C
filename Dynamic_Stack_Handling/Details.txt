@@ -1,0 +1,8 @@
+Manipulation of .txt files for logical resolution of mathematical expressions in postfix notation (reverse polish notation).
+Show step by step of the logical solution.
+As a: "compiler" simulator.
+
+//=============================//
+Project developed in Dev-C++ IDE.
+Language = Brazilian Portuguese (PtBr).
+Activity performed by me and my partner -> github.com/JuliaMStahl

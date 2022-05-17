@@ -1,0 +1,7 @@
+Manipulation of .txt files for organize and search data as requested by digits at the end of files.
+Organize data into a circular list based on IDs.
+
+//=============================//
+Project developed in Dev-C++ IDE.
+Language = Brazilian Portuguese (PtBr).
+Activity performed by me and my partner -> github.com/JuliaMStahl

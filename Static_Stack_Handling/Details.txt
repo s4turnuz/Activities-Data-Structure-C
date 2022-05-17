@@ -1,0 +1,7 @@
+Manipulation of .txt files for converting integers to binary using static stack.
+Use stack functions to print to output file. Reverse order.
+
+//=============================//
+Project developed in Dev-C++ IDE.
+Language = Brazilian Portuguese (PtBr).
+Activity performed by me and my partner -> github.com/JuliaMStahl
