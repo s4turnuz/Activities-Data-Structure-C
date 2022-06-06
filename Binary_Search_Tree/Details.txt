@@ -1,0 +1,7 @@
+Search tree with string manipulation.
+Tree that searches the terms read in a block of text, and returns the page in which the element is repeated
+
+//=============================//
+Project developed in Dev-C++ IDE.
+Language = Brazilian Portuguese (PtBr).
+Activity performed by me and my partner -> github.com/JuliaMStahl
